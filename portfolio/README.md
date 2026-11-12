@@ -1,6 +1,6 @@
 # FP&A portfolio | Shanampuri Dinesh
 
-Three self-initiated, AI-assisted finance case studies. The planning models use Infosys consolidated IFRS results in INR crore. The close simulation uses a fictional IT-services group.
+Three FP&A portfolio projects covering budgeting, forecasting and month-end close. The planning models use Infosys consolidated IFRS results in INR crore. The close simulation uses a fictional IT-services group.
 
 | Project | Review the output | Files |
 |---|---|---|
