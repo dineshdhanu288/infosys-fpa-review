@@ -1,0 +1,278 @@
+{
+  "url": "https://www.sec.gov/Archives/edgar/data/1067491/000106749126000018/exv99w10.htm",
+  "accounting": "Ind AS consolidated",
+  "units": "INR crore",
+  "retrieved": "2026-10-20",
+  "rows": [
+    [
+      "Revenue",
+      162990,
+      178650
+    ],
+    [
+      "Other income",
+      3600,
+      4322
+    ],
+    [
+      "Employee costs",
+      85950,
+      95094
+    ],
+    [
+      "Subcontractors",
+      12937,
+      15421
+    ],
+    [
+      "Travel",
+      1894,
+      2097
+    ],
+    [
+      "Software",
+      15911,
+      15722
+    ],
+    [
+      "Communication",
+      620,
+      603
+    ],
+    [
+      "Consultancy",
+      1655,
+      2090
+    ],
+    [
+      "Depreciation",
+      4812,
+      4902
+    ],
+    [
+      "Finance cost",
+      416,
+      416
+    ],
+    [
+      "Other expenses",
+      4787,
+      5343
+    ],
+    [
+      "Total expenses",
+      128982,
+      141688
+    ],
+    [
+      "Exceptional expense",
+      0,
+      1289
+    ],
+    [
+      "Pretax profit",
+      37608,
+      39995
+    ],
+    [
+      "Current tax",
+      12130,
+      11767
+    ],
+    [
+      "Deferred tax",
+      -1272,
+      -1246
+    ],
+    [
+      "Net profit",
+      26750,
+      29474
+    ],
+    [
+      "PPE",
+      11778,
+      12651
+    ],
+    [
+      "Right of use assets",
+      6311,
+      6177
+    ],
+    [
+      "Capital work in progress",
+      814,
+      526
+    ],
+    [
+      "Intangible assets",
+      2766,
+      2825
+    ],
+    [
+      "Total noncurrent assets",
+      51804,
+      52478
+    ],
+    [
+      "Current investments",
+      12482,
+      12950
+    ],
+    [
+      "Receivables",
+      31158,
+      35234
+    ],
+    [
+      "Cash",
+      24455,
+      22201
+    ],
+    [
+      "Total current assets",
+      97099,
+      103489
+    ],
+    [
+      "Total assets",
+      148903,
+      155967
+    ],
+    [
+      "Total equity",
+      96203,
+      93297
+    ],
+    [
+      "Noncurrent liabilities",
+      9850,
+      10348
+    ],
+    [
+      "Current liabilities",
+      42850,
+      52322
+    ],
+    [
+      "CF tax addback",
+      10858,
+      10521
+    ],
+    [
+      "CF depreciation",
+      4812,
+      4902
+    ],
+    [
+      "CF interest dividend income",
+      -2570,
+      -2630
+    ],
+    [
+      "CF finance cost",
+      416,
+      416
+    ],
+    [
+      "CF impairment",
+      48,
+      33
+    ],
+    [
+      "CF exchange differences",
+      79,
+      954
+    ],
+    [
+      "CF stock compensation",
+      802,
+      952
+    ],
+    [
+      "CF refund interest",
+      -327,
+      -63
+    ],
+    [
+      "CF client support",
+      -110,
+      -167
+    ],
+    [
+      "CF other adjustments",
+      833,
+      881
+    ],
+    [
+      "CF receivables unbilled",
+      -1769,
+      -5177
+    ],
+    [
+      "CF other assets",
+      -1024,
+      -2645
+    ],
+    [
+      "CF trade payables",
+      176,
+      -26
+    ],
+    [
+      "CF other liabilities",
+      2322,
+      5209
+    ],
+    [
+      "CF taxes paid",
+      -5602,
+      -8648
+    ],
+    [
+      "Operating cash flow",
+      35694,
+      33986
+    ],
+    [
+      "Capital expenditure net",
+      -2237,
+      -2727
+    ],
+    [
+      "Investing cash flow",
+      -1946,
+      1946
+    ],
+    [
+      "Dividends paid",
+      -20287,
+      -18653
+    ],
+    [
+      "Buyback cash",
+      0,
+      -18058
+    ],
+    [
+      "Financing cash flow",
+      -24161,
+      -39786
+    ],
+    [
+      "Cash FX impact",
+      82,
+      1600
+    ],
+    [
+      "Opening cash",
+      14786,
+      24455
+    ],
+    [
+      "Closing cash",
+      24455,
+      22201
+    ]
+  ]
+}
