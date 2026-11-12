@@ -35,4 +35,4 @@ Assume a contractor delivers services worth ₹50,000 in March and invoices in A
 - [Comparison data](data/comparisons.csv) — model output used in the review. A zero budget makes percentage variance undefined.
 - [Source extract](data/source.json) — consolidated Ind AS figures and original filing reference. [Infosys filing on SEC EDGAR](https://www.sec.gov/Archives/edgar/data/1067491/000106749126000018/exv99w10.htm).
 
-AI-assisted educational portfolio case study. The budget was constructed for this exercise. Infosys did not supply an internal plan. The analysis uses annual historical results.
+The budget was constructed for this exercise. Infosys did not supply an internal plan. The analysis uses annual historical results.
