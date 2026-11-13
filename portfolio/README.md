@@ -1,3 +1,11 @@
+## Three FP&A portfolio projects
+
+| Project | Working files | Result to inspect |
+|---|---|---|
+| [1 · Infosys three-statement forecast](P1-Forecast/) | [Excel](Infosys_Three_Statement_Model.xlsx) | FY27 base closing cash of ₹24,801.49 crore |
+| [2 · Infosys budget variance](P2-Variance/) | [Excel](Infosys_Budget_vs_Actual.xlsx) · [Power BI project](Budget_and_Forecast.zip) | Q2 operating profit ₹753.53 crore above the simulated budget |
+| [3 · IT services month-end close](P3-Close/) | [Excel](Month_End_Close.xlsx) · [Power BI Desktop report](Close_and_Flux.pbix) | 5.25 average business days across 12 simulated closes |
+
 # FP&A portfolio | Shanampuri Dinesh
 
 Three FP&A portfolio projects covering budgeting, forecasting and month-end close. The planning models use Infosys consolidated IFRS results in INR crore. The close simulation uses a fictional IT-services group.
@@ -23,7 +31,7 @@ The Power BI archives include the report pages, semantic model, DAX and embedded
 The budget, rolling forecast and three-statement projections are illustrative. The FX bridge applies rounded published constant-currency growth to prior-year INR revenue. The reported statements, forecast assumptions and ledger simulation have separate provenance.
 
 ### Infosys | Budget versus actual
-FY27  Simulated April budget compared with sourced quarterly IFRS actuals  INR crore
+FY27 · Simulated April budget compared with sourced quarterly IFRS actuals · INR crore
 
 ### Q1 FY27 performance
 
@@ -59,7 +67,7 @@ FY27  Simulated April budget compared with sourced quarterly IFRS actuals  INR
 | Actual OP | 10,330.00 |
 
 ### Infosys | Three-statement forecast
-Base scenario  FY26 actual and FY27-FY29 projections  INR crore
+Base scenario · FY26 actual and FY27-FY29 projections · INR crore
 
 ### Statement summary
 
@@ -87,7 +95,7 @@ Base scenario  FY26 actual and FY27-FY29 projections  INR crore
 | Closing cash | 25,936.27 | 24,801.49 | 25,159.69 |
 
 ### IT services | Month-end close
-Simulated two-entity ledger  April 2025 to March 2026  INR crore
+Simulated two-entity ledger · April 2025 to March 2026 · INR crore
 
 ### Monthly performance and sign-off
 

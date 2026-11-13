@@ -1,3 +1,14 @@
+# Shanampuri Dinesh | FP&A portfolio
+
+| Project | Working files | Result to inspect |
+|---|---|---|
+| [1 · Infosys three-statement forecast](portfolio/P1-Forecast/) | [Excel](portfolio/Infosys_Three_Statement_Model.xlsx) | FY27 base closing cash of ₹24,801.49 crore |
+| [2 · Infosys budget variance](portfolio/P2-Variance/) | [Excel](portfolio/Infosys_Budget_vs_Actual.xlsx) · [Power BI project](portfolio/Budget_and_Forecast.zip) | Q2 operating profit ₹753.53 crore above the simulated budget |
+| [3 · IT services month-end close](portfolio/P3-Close/) | [Excel](portfolio/Month_End_Close.xlsx) · [Power BI Desktop report](portfolio/Close_and_Flux.pbix) | 5.25 average business days across 12 simulated closes |
+
+
+---
+
 # Infosys FY2026 budget variance review
 
 Revenue exceeded the illustrative budget by ₹2,620.80 crore. Total expenses exceeded it by ₹2,956.28 crore. Together these movements reduced **revenue less total expenses by ₹335.48 crore** against plan. This subtotal includes finance cost. Other income, exceptional expense and taxes sit outside this comparison.
