@@ -14,3 +14,5 @@ The Q2 operating-profit variance was ₹753.53 crore favourable. At the budgeted
 Open **Variance** and **Bridge** in Excel. The refreshed Desktop report opens with September 2026 selected. The three cards and cost-line table reconcile to Excel. Clear the period selection to see the full trend.
 
 [Download Excel](https://github.com/dineshdhanu288/infosys-fpa-review/raw/refs/heads/main/portfolio/Infosys_Budget_vs_Actual.xlsx) · [Download Power BI report](https://github.com/dineshdhanu288/infosys-fpa-review/raw/refs/heads/main/portfolio/Infosys_Budget_Review.pbix) · [Sources and full tables](../README.md)
+
+Open **FlexedBudget** in Excel for the cost-of-sales bridge. The Q2 flex formula is `=B4/C4*D4`. Cell G4 shows ₹134.75 crore favourable versus the flexed cost allowance. The existing Power BI waterfall uses the frozen budget.
