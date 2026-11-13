@@ -1,5 +1,8 @@
 # Shanampuri Dinesh | FP&A portfolio
 
+[Open the completed projects folder](Completed-Projects/) · [Download all five working files](https://github.com/dineshdhanu288/infosys-fpa-review/raw/refs/heads/main/Completed-Projects/Completed_FPA_Portfolio.zip)
+
+
 Click a project title to read its results here. Click an Excel or Power BI link to download the working file, then open it from Downloads. On a GitHub file page, **View raw** or the download arrow retrieves the original file.
 
 
