@@ -1,5 +1,8 @@
 # IT services month-end close
 
+Open **Statements**, row **13**, in Excel for March balances. The Power BI report opens on **Close operations**.
+
+
 All activity is simulated. The two-entity ledger covers April 2025 through March 2026.
 
 | Control or output | Result |
@@ -12,4 +15,4 @@ All activity is simulated. The two-entity ledger covers April 2025 through March
 
 Open **Close operations** in Power BI to see the KPI cards, exceptions and close calendar. Open **Errors** in Excel for the correcting journals.
 
-[Download Power BI Desktop report](../Close_and_Flux.pbix) · [Download Excel](../Month_End_Close.xlsx) · [Monthly results](../README.md)
+[Download Power BI Desktop report](https://github.com/dineshdhanu288/infosys-fpa-review/raw/refs/heads/main/portfolio/Close_and_Flux.pbix) · [Download Excel](https://github.com/dineshdhanu288/infosys-fpa-review/raw/refs/heads/main/portfolio/Month_End_Close.xlsx) · [Monthly results](../README.md)

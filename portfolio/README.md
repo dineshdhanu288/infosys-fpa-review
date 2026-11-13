@@ -1,10 +1,13 @@
 ## Three FP&A portfolio projects
 
+Click a project title to read its results here. Click an Excel or Power BI link to download the working file, then open it from Downloads. On a GitHub file page, **View raw** or the download arrow retrieves the original file.
+
+
 | Project | Working files | Result to inspect |
 |---|---|---|
-| [1 · Infosys three-statement forecast](P1-Forecast/) | [Excel](Infosys_Three_Statement_Model.xlsx) | FY27 base closing cash of ₹24,801.49 crore |
-| [2 · Infosys budget variance](P2-Variance/) | [Excel](Infosys_Budget_vs_Actual.xlsx) · [Power BI project](Budget_and_Forecast.zip) | Q2 operating profit ₹753.53 crore above the simulated budget |
-| [3 · IT services month-end close](P3-Close/) | [Excel](Month_End_Close.xlsx) · [Power BI Desktop report](Close_and_Flux.pbix) | 5.25 average business days across 12 simulated closes |
+| [1 · Infosys three-statement forecast](P1-Forecast/) | [Excel](https://github.com/dineshdhanu288/infosys-fpa-review/raw/refs/heads/main/portfolio/Infosys_Three_Statement_Model.xlsx) | FY27 base closing cash of ₹24,801.49 crore |
+| [2 · Infosys budget variance](P2-Variance/) | [Excel](https://github.com/dineshdhanu288/infosys-fpa-review/raw/refs/heads/main/portfolio/Infosys_Budget_vs_Actual.xlsx) · [Download Power BI report](https://github.com/dineshdhanu288/infosys-fpa-review/raw/refs/heads/main/portfolio/Infosys_Budget_Review.pbix) | Q2 operating profit ₹753.53 crore above the simulated budget |
+| [3 · IT services month-end close](P3-Close/) | [Excel](https://github.com/dineshdhanu288/infosys-fpa-review/raw/refs/heads/main/portfolio/Month_End_Close.xlsx) · [Power BI Desktop report](https://github.com/dineshdhanu288/infosys-fpa-review/raw/refs/heads/main/portfolio/Close_and_Flux.pbix) | 5.25 average business days across 12 simulated closes |
 
 # FP&A portfolio | Shanampuri Dinesh
 
@@ -12,9 +15,9 @@ Three FP&A portfolio projects covering budgeting, forecasting and month-end clos
 
 | Project | Review the output | Files |
 |---|---|---|
-| Infosys FY27 budget vs actual | Q2 operating profit reached ₹10,330 crore against a simulated ₹9,576.47 crore budget. Constant-currency performance contributed ₹444.90 crore adverse; estimated currency translation and rounding added ₹4,086.65 crore. Higher expenses absorbed ₹2,888.22 crore. | [Excel workbook](Infosys_Budget_vs_Actual.xlsx) · [Power BI project](Budget_and_Forecast.zip) |
-| Infosys three-statement forecast | FY27 combines reported H1 with forecast H2. Base FY27 revenue is ₹198,162.88 crore and closing cash is ₹24,801.49 crore. Change the case on Control to test the forecast. | [Excel workbook](Infosys_Three_Statement_Model.xlsx) |
-| Month-end close and flux analysis | A 12-month simulated ledger contains 142 balanced journals, three deliberate posting errors and 144 reconciliation comparisons. March closes with ₹64.9420 crore of assets and ₹59.1272 crore of equity. | [Excel workbook](Month_End_Close.xlsx) · [Power BI project](Close_and_Flux.zip) |
+| Infosys FY27 budget vs actual | Q2 operating profit reached ₹10,330 crore against a simulated ₹9,576.47 crore budget. Constant-currency performance contributed ₹444.90 crore adverse; estimated currency translation and rounding added ₹4,086.65 crore. Higher expenses absorbed ₹2,888.22 crore. | [Excel workbook](https://github.com/dineshdhanu288/infosys-fpa-review/raw/refs/heads/main/portfolio/Infosys_Budget_vs_Actual.xlsx) · [Download Power BI report](https://github.com/dineshdhanu288/infosys-fpa-review/raw/refs/heads/main/portfolio/Infosys_Budget_Review.pbix) |
+| Infosys three-statement forecast | FY27 combines reported H1 with forecast H2. Base FY27 revenue is ₹198,162.88 crore and closing cash is ₹24,801.49 crore. Change the case on Control to test the forecast. | [Excel workbook](https://github.com/dineshdhanu288/infosys-fpa-review/raw/refs/heads/main/portfolio/Infosys_Three_Statement_Model.xlsx) |
+| Month-end close and flux analysis | A 12-month simulated ledger contains 142 balanced journals, three deliberate posting errors and 144 reconciliation comparisons. March closes with ₹64.9420 crore of assets and ₹59.1272 crore of equity. | [Excel workbook](https://github.com/dineshdhanu288/infosys-fpa-review/raw/refs/heads/main/portfolio/Month_End_Close.xlsx) · [Power BI project](Close_and_Flux.zip) |
 
 ## Review in two minutes
 
@@ -22,7 +25,7 @@ Three FP&A portfolio projects covering budgeting, forecasting and month-end clos
 2. In the forecast workbook, open **Model** and change **Control** from Base to Downside. Trace revenue through operating profit, receivables, operating cash flow and closing cash.
 3. In the close workbook, open **Errors** and inspect the December insurance reclassification. The correcting entry changes the cost-line presentation and leaves profit unchanged.
 
-The Power BI archives include the report pages, semantic model, DAX and embedded Power Query data. Extract each archive, open its `.pbip` file in Power BI Desktop and select **Home → Refresh**. Source figures and simulated forecasts are identified in the workbooks.
+Download the .pbix files and open them in Power BI Desktop. Both contain their data.
 
 ## Source documents
 

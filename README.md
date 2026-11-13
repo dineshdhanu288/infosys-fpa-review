@@ -1,10 +1,13 @@
 # Shanampuri Dinesh | FP&A portfolio
 
+Click a project title to read its results here. Click an Excel or Power BI link to download the working file, then open it from Downloads. On a GitHub file page, **View raw** or the download arrow retrieves the original file.
+
+
 | Project | Working files | Result to inspect |
 |---|---|---|
-| [1 · Infosys three-statement forecast](portfolio/P1-Forecast/) | [Excel](portfolio/Infosys_Three_Statement_Model.xlsx) | FY27 base closing cash of ₹24,801.49 crore |
-| [2 · Infosys budget variance](portfolio/P2-Variance/) | [Excel](portfolio/Infosys_Budget_vs_Actual.xlsx) · [Power BI project](portfolio/Budget_and_Forecast.zip) | Q2 operating profit ₹753.53 crore above the simulated budget |
-| [3 · IT services month-end close](portfolio/P3-Close/) | [Excel](portfolio/Month_End_Close.xlsx) · [Power BI Desktop report](portfolio/Close_and_Flux.pbix) | 5.25 average business days across 12 simulated closes |
+| [1 · Infosys three-statement forecast](portfolio/P1-Forecast/) | [Excel](https://github.com/dineshdhanu288/infosys-fpa-review/raw/refs/heads/main/portfolio/Infosys_Three_Statement_Model.xlsx) | FY27 base closing cash of ₹24,801.49 crore |
+| [2 · Infosys budget variance](portfolio/P2-Variance/) | [Excel](https://github.com/dineshdhanu288/infosys-fpa-review/raw/refs/heads/main/portfolio/Infosys_Budget_vs_Actual.xlsx) · [Download Power BI report](https://github.com/dineshdhanu288/infosys-fpa-review/raw/refs/heads/main/portfolio/Infosys_Budget_Review.pbix) | Q2 operating profit ₹753.53 crore above the simulated budget |
+| [3 · IT services month-end close](portfolio/P3-Close/) | [Excel](https://github.com/dineshdhanu288/infosys-fpa-review/raw/refs/heads/main/portfolio/Month_End_Close.xlsx) · [Power BI Desktop report](https://github.com/dineshdhanu288/infosys-fpa-review/raw/refs/heads/main/portfolio/Close_and_Flux.pbix) | 5.25 average business days across 12 simulated closes |
 
 
 ---
